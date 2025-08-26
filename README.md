@@ -1,2 +1,2 @@
 # miguelkai
-Information about Cobra kai and analysis of miguel.
+Information om Cobra kai och analys på miguel.
